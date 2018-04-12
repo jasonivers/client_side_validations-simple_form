@@ -21,7 +21,7 @@ Gem::Specification.new do |spec|
   spec.require_paths = ['lib']
 
   spec.add_dependency 'client_side_validations', '>= 9.3.2', '< 12'
-  spec.add_dependency 'simple_form', '~> 3.5'
+  spec.add_dependency 'simple_form', '~> 4.0'
 
   spec.add_development_dependency 'appraisal', '~> 2.2'
   spec.add_development_dependency 'byebug', '~> 10.0'
